@@ -1,9 +1,11 @@
 {
-"#Type":"CcBq Fans -> 中文字符文件",
-"#Font":"宋体",
-"@Author":"CcBq粉丝",
-"language":"简体中文",
-"CcBq Fans":"CcBq粉丝站",
-"Home Page":"首页",
-"About us":"关于"
+    "#Type":"CcBq Fans -> 中文字符文件",
+    "@Author":"CcBq粉丝站",
+
+    "language":"简体中文",
+
+    "CcBq Fans":"CcBq粉丝站",
+    "Home Page":"首页",
+    "About us":"关于",
+    "Support Us":"联系"
 }

@@ -1,4 +1,6 @@
-var TSLTLanguage = "Chinese";
+if(!TSLTLanguage){
+    var TSLTLanguage = "Chinese";
+}
 var TSLT = {"Unload":true}
 var XHR = new XMLHttpRequest();
 XHR.open("get",`./Languages/${TSLTLanguage}.json`)
